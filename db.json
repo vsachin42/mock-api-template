@@ -40,5 +40,17 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "users": [
+      {
+        "id":1,
+        "username": "Sachin",
+        "avatar": "https://png.pngtree.com/element_our/png/20181208/male-student-icon-png_265268.jpg",
+        "email": "sachin@mail.com",
+        "password": "1234"
+      }
+  ],
+  "forum": [
+    
   ]
 }
